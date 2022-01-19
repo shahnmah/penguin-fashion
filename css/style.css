@@ -2,8 +2,34 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-}
-.navbar-nav .nav-item .nav-link{
     color: #3C3C3C;
-
+}
+h1{
+    font-size: 60px;
+}
+header{
+    background-color: #FFFBF0;;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #3C3C3C;
+    font-weight: 500;
+}
+#banner{
+    background-color: #FFFBF0;
+}
+#banner .heading-color{
+    color:#FABE4C;
+}
+#banner p{
+    width: 357px;
+}
+#banner button{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    outline: 0;
+    color: #fff;
+}
+.shopping-cart-icon img{
+    height: 24px;
+    width: 24px;
 }
