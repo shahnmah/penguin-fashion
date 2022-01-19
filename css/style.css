@@ -4,8 +4,15 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #3C3C3C;
 }
+section{
+    margin-bottom: 80px;
+}
 h1{
     font-size: 60px;
+}
+h2{
+    font-size: 35px;
+    color: #363958;
 }
 header{
     background-color: #FFFBF0;;
@@ -32,4 +39,9 @@ header{
 .shopping-cart-icon img{
     height: 24px;
     width: 24px;
+}
+
+
+.jacket-img{
+    background-color: #F1F1F1;
 }
